@@ -4,4 +4,4 @@ function greet(person: string) : string {
 
 const username: string = "Chai aur TS"
 
-console.log(greet(username));
+console.log(greet(username)); 
